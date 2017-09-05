@@ -1,0 +1,74 @@
+	[{	
+		"id":1,
+		"nome":"Linha 1",		
+		"R":1,
+		"X":1,	
+		"I":null,
+		"V_i":null,
+		"V_j":null,
+		"P_ij":null,
+		"Q_ij":null,
+		"tipo":"linha",
+		"Origem_i":1,
+		"Origem_j":4
+	},
+	{	
+		"id":2,
+		"nome":"Linha 2",		
+		"R":1,
+		"X":1,	
+		"I":null,
+		"V_i":null,
+		"V_j":null,
+		"P_ij":null,
+		"Q_ij":null,
+		"tipo":"linha",
+		"Origem_i":1,
+		"Origem_j":3
+	},
+	{	
+		"id":3,
+		"nome":"Linha 3",		
+		"R":1,
+		"X":1,	
+		"I":null,
+		"V_i":null,
+		"V_j":null,
+		"P_ij":null,
+		"Q_ij":null,
+		"tipo":"linha",
+		"Origem_i":1,
+		"Origem_j":2
+	},
+
+		{	
+		"id":4,
+		"nome":"Linha 4",		
+		"R":1,
+		"X":1,	
+		"I":null,
+		"V_i":null,
+		"V_j":null,
+		"P_ij":null,
+		"Q_ij":null,
+		"tipo":"linha",
+		"Origem_i":4,
+		"Origem_j":3
+	},
+
+	{	
+		"id":5,
+		"nome":"Linha 5",		
+		"R":1,
+		"X":1,	
+		"I":null,
+		"V_i":null,
+		"V_j":null,
+		"P_ij":null,
+		"Q_ij":null,
+		"tipo":"linha",
+		"Origem_i":2,
+		"Origem_j":3
+	}
+
+	]

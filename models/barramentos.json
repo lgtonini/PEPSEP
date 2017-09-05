@@ -1,0 +1,33 @@
+[
+	{	
+	"id":1,
+	"nome":"barramento 1",
+	"P":null,
+	"V": null,
+	"Q":null,
+	"T":null,	
+	"I":null,
+	"tipo":"barra"	
+},
+{	
+	"id":2,
+	"nome":"barramento 2",
+	"P":null,
+	"V": null,
+	"Q":null,
+	"T":null,	
+	"I":null,
+	"tipo":"barra"	
+},
+{	
+	"id":3,
+	"nome":"barramento 3",
+	"P":null,
+	"V": null,
+	"Q":null,
+	"T":null,	
+	"I":null,
+	"tipo":"barra"	
+}
+
+]

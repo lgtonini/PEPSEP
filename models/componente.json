@@ -1,0 +1,39 @@
+[{	"id":1,
+	"nome":"Gerador 1",
+	"P":34000,
+	"V": 13800,
+	"Q":null,
+	"T":null,	
+	"y_real":10,
+	"y_imag":10,
+	"tipo":"gerador",
+	"barra":1
+},
+{	"id":1,
+	"nome":"Gerador 2",
+	"P":null,
+	"V": 13800,
+	"Q":null,
+	"T":20,	
+	"y_real":10,
+	"y_imag":10,
+	"tipo":"gerador",
+	"barra":2
+},
+{	"id":1,
+	"nome":"Motor 1",
+	"P":34000,
+	"V": null,
+	"Q":17000,
+	"T":null,	
+	"y_real":10,
+	"y_imag":10,
+	"tipo":"motor",
+	"barra":3
+}
+
+]
+
+
+
+
